@@ -5,6 +5,8 @@
 }
 
 body {
+    height: 100vh;
+    max-width: 960px;
     background-image: url(https://www.androidguys.com/wp-content/uploads/2015/12/Wave-Wallpapers-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
