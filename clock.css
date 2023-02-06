@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://www.androidguys.com/wp-content/uploads/2015/12/Wave-Wallpapers-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin: 10% auto;
+    color: #fff;
+    text-align: center;
+}
+
+.c {
+    top: 50%;
+    left: 83%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    height: 450px;
+    background-image: url(https://marketplace.canva.com/EAE-xnqWvJk/1/0/1600w/canva-retro-smoke-and-round-light-desktop-wallpapers-JLofAI27pCg.jpg);
+    border-radius: 50%;
+    position: absolute;
+}
+
+.c2 {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 270px;
+    height: 270px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cJHwSDpoV4sUP-E4tdjkaur5VlRFY_ywFw&usqp=CAU);
+    border-radius: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+    font-weight: bold;
+    font-size: 35px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
